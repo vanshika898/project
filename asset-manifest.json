@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//vanshika898.github.io/project/static/css/main.76071676.css",
+    "main.js": "/https//vanshika898.github.io/project/static/js/main.e17d2930.js",
+    "static/media/img23.jpg": "/https//vanshika898.github.io/project/static/media/img23.75b2bd22b09391cc44c9.jpg",
+    "static/media/img72.jpg": "/https//vanshika898.github.io/project/static/media/img72.775841e9b87ffa95a9d2.jpg",
+    "index.html": "/https//vanshika898.github.io/project/index.html",
+    "main.76071676.css.map": "/https//vanshika898.github.io/project/static/css/main.76071676.css.map",
+    "main.e17d2930.js.map": "/https//vanshika898.github.io/project/static/js/main.e17d2930.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76071676.css",
+    "static/js/main.e17d2930.js"
+  ]
+}
